@@ -16,3 +16,4 @@ This repository contains a To-Do List Application built with HTML, CSS, and Java
 
 This project serves as a practical example of basic web development skills, showcasing concepts such as DOM manipulation, event handling, and local storage in JavaScript. It's an excellent resource for beginners looking to enhance their coding skills while creating a functional application. 
 
+[click link for simple preview](file:///C:/Users/BDC%20Computer/OneDrive/Desktop/Jaco/Angie%20Printing/TO%20DO%20list%20bit%20perview.html)
